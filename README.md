@@ -3,13 +3,12 @@
 **Prepared by:**  
 
 [Renann G. Baldovino, PhD](https://www.dlsu.edu.ph/colleges/gcoe/academic-departments/manufacturing-engineering-management/faculty-profile/renann-baldovino/)  
-**[Department of Manufacturing Engineering and Management](https://www.dlsu.edu.ph/colleges/gcoe/academic-departments/manufacturing-engineering-management/)**  
+**[Department of Manufacturing Engineering and Management, De La Salle University](https://www.dlsu.edu.ph/colleges/gcoe/academic-departments/manufacturing-engineering-management/)**  
 
 [Angelino A. Pimentel, MSc, PECE](https://scholar.google.com/citations?user=rPcj5CMAAAAJ&hl=en)  
-**[School of Engineering, Architecture and Information Technology](https://smu.edu.ph/academics/school-of-engineering-architecture-and-information-technology/)**
+**[School of Engineering, Architecture and Information Technology, Saint Mary's University](https://smu.edu.ph/academics/school-of-engineering-architecture-and-information-technology/)**
 
-
-The project introduces **D-CITRUS**, a smart manufacturing framework designed to enhance citrus post-processing. By integrating _digital twin_ technology, the system creates a virtual replica of the sorting and packaging process, enabling _real-time monitoring_, _simulation_, and _optimization_. **D-CITRUS** aims to improve accuracy in fruit classification, reduce waste, and streamline packaging operations while ensuring product quality. The system promotes efficiency, sustainability, and cost-effectiveness in citrus manufacturing. Ultimately, **D-CITRUS** provides a scalable solution for modernizing agricultural post-processing, aligning with the shift toward Industry 4.0 and intelligent food production systems.
+The project introduces **D-CITRUS**, a smart manufacturing framework designed to enhance citrus post-processing. By integrating **_digital twin_** technology, the system creates a virtual replica of the sorting and packaging process, enabling _real-time monitoring_, _simulation_, and _optimization_. **D-CITRUS** aims to improve accuracy in fruit classification, reduce waste, and streamline packaging operations while ensuring product quality. The system promotes efficiency, sustainability, and cost-effectiveness in citrus manufacturing. Ultimately, **D-CITRUS** provides a scalable solution for modernizing agricultural post-processing, aligning with the shift toward Industry 4.0 and intelligent food production systems.
 
 ## Session 1: Robotics Foundations & Evolution
 1. **Understanding the Historical Evolution in Robotics**
