@@ -19,6 +19,8 @@ The project, spearheaded by **SMU** and **DLSU** in partnership with citrus farm
 ---
 
 ## Project Timeline: _2 years_
+<img width="580" height="72" alt="gantt" src="https://github.com/user-attachments/assets/55647869-f421-4fc5-ba36-dd544ae0b4c4" />
+
 ---
 
 ## Objectives
@@ -57,17 +59,4 @@ _Figure 1. Conceptual framework of D-CITRUS digital twin-enabled citrus post-pro
 - Conduct economic, environmental, and social impact assessment
 - Develop scalability framework for adoption across other agricultural industries
 
-```mermaid
-gantt
-    dateFormat  YYYY-MM-DD
-    title D-CITRUS 2-Year Project Timeline
-    excludes weekends
 
-    section Project 1: Digital Twin Modeling & Smart Sensing
-    System Modeling & Sensors    :active, p1, 2026-01-01, 2027-12-31
-
-    section Project 2: AI-Driven Sorting & Smart Packaging
-    AI Models & Packaging        :p2, 2026-07-01, 2027-12-31
-
-    section Project 3: Validation, Deployment & Sustainability
-    Pilot Deployment & Assessment :p3, 2027-01-01, 2027-12-31
