@@ -11,64 +11,16 @@
 The project introduces **D-CITRUS**, a smart manufacturing framework designed to enhance citrus post-processing. By integrating **_digital twin_** technology, the system creates a virtual replica of the sorting and packaging process, enabling _real-time monitoring_, _simulation_, and _optimization_. **D-CITRUS** aims to improve accuracy in fruit classification, reduce waste, and streamline packaging operations while ensuring product quality. The system promotes efficiency, sustainability, and cost-effectiveness in citrus manufacturing. Ultimately, **D-CITRUS** provides a scalable solution for modernizing agricultural post-processing, aligning with the shift toward Industry 4.0 and intelligent food production systems.
 
 ## Session 1: Robotics Foundations & Evolution
-1. **Understanding the Historical Evolution in Robotics**
-   - Early developments in automation  
-   - Milestones in robotics research & applications  
-   - Rise of collaborative and autonomous robots  
-2. **Types of Robots**
-   - Industrial robots (manufacturing, assembly, welding)  
-   - Service robots (healthcare, logistics, domestic)  
-   - Collaborative robots (safety & human-robot interaction)  
-   - Autonomous robots (drones, AMRs, self-driving systems)  
+```mermaid
+flowchart LR
+    A[Raw Citrus Fruits] --> B[Sensors & Data Capture]
+    B --> C[Digital Twin Layer: Virtual Citrus Model]
+    C --> D[AI Processing & Analytics]
+    D --> E[Automated Sorting]
+    D --> F[Smart Packaging]
+    E --> G[Output: Graded Citrus]
+    F --> H[Output: Packaged Citrus]
 
-## Session 2: Robotics Simulation & Digital Twins
-3. **Practical Demonstration: Robotics Simulation of Cobots and Digital Twin**
-   - Introduction to simulation platforms (CoppeliaSim, ROS, DELMIA)  
-   - Building and testing robotic tasks virtually  
-   - Applications of digital twins in monitoring & optimization  
-
-## Session 3: AI & Machine Learning for Robotics
-4. **Fundamentals of AI & Machine Learning**
-   - Core principles (supervised, unsupervised, reinforcement learning)  
-   - Neural networks & computer vision basics  
-   - Link between AI and robotic autonomy  
-5. **Practical Demonstration: AI & ML Tools**
-   - Using open-source libraries (TensorFlow, PyTorch, Scikit-learn)  
-   - Simple ML experiments for prediction and classification  
-6. **Practical Demonstration: AI Integration in Robotics**
-   - Object recognition & navigation  
-   - Path planning & decision-making with AI  
-   - AI-powered cobot applications
-
-## Session 4: Robotics Trends & Industry Applications
-7. **Current Trends in Robotics**
-   - Human-robot collaboration  
-   - Robotics in healthcare, agriculture, logistics, defense  
-   - Ethical, legal, and social considerations  
-8. **Transformative Potential of Robotics Across Various Industries**
-   - Case studies from different sectors  
-   - Disruptive innovations enabled by robotics
-
-## Session 5: Robotics for Efficiency & Innovation
-9. **Enhancing Operational Efficiency & Driving Innovations Using Robotics**
-   - Process automation and lean practices  
-   - Robotics in hazardous and repetitive tasks  
-   - Robotics as a driver of continuous innovation  
-10. **Enabling New Business Models & Services**
-    - Robotics-as-a-Service (RaaS)  
-    - Customization for SMEs and niche markets  
-    - Scaling robotics startups
-
-## Session 6: Applied Robotics Strategy & Business Creation
-11. **Group Activity: Mapping Potential Applications to Participants’ Organizations**
-    - Collaborative brainstorming and mapping  
-    - Identifying organizational fit for robotics adoption  
-12. **Workshop: Business Model Creation**
-    - Designing robotics-enabled business models  
-    - Revenue models, partnerships, and scaling strategies 
-    - Final group presentations
-
-## Suggested Delivery Format
-   - **No. of learning hours: _42_**
-   - **(22-hr in-person/online sessions and 20-hr async sessions)**
-   - Combination of **lectures, demonstrations, group activities, and workshops**
+    %% Feedback loop
+    G -.-> C
+    H -.-> C
