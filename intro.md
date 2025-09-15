@@ -4,11 +4,13 @@
 
 [Angelino A. Pimentel, MSc, PECE](https://scholar.google.com/citations?user=rPcj5CMAAAAJ&hl=en)  
 **[School of Engineering, Architecture and Information Technology, Saint Mary's University (SMU)](https://smu.edu.ph/academics/school-of-engineering-architecture-and-information-technology/)**
+<img width="250" height="250" alt="smu" src="https://github.com/user-attachments/assets/37709fda-c3b8-4e6f-91b5-51efe4b95012" />
 
 [Renann G. Baldovino, PhD](https://www.dlsu.edu.ph/colleges/gcoe/academic-departments/manufacturing-engineering-management/faculty-profile/renann-baldovino/)  
 **[Department of Manufacturing Engineering and Management, De La Salle University (DLSU)](https://www.dlsu.edu.ph/colleges/gcoe/academic-departments/manufacturing-engineering-management/)**  
 
 ---
+
 
 ## Abstract
 The project, spearheaded by **SMU** and **DLSU** in partnership with citrus farmers in Region II, introduces **D-CITRUS**, a smart manufacturing framework designed to enhance citrus post-processing. By integrating **_digital twin_** technology, the system creates a virtual replica of the sorting and packaging process, enabling _real-time monitoring_, _simulation_, and _optimization_. Structured into three sub-projects, **D-CITRUS** aims to improve accuracy in fruit classification, reduce waste, and streamline packaging operations while ensuring product quality. The system promotes efficiency, sustainability, and cost-effectiveness in citrus manufacturing. Ultimately, **D-CITRUS** provides a scalable solution for modernizing agricultural post-processing, aligning with the shift toward Industry 4.0 and intelligent food production systems.
@@ -20,6 +22,8 @@ The project, spearheaded by **SMU** and **DLSU** in partnership with citrus farm
 
 ## Project Timeline: _2 years_
 <img width="580" height="72" alt="gantt" src="https://github.com/user-attachments/assets/55647869-f421-4fc5-ba36-dd544ae0b4c4" />
+
+_Figure 1. D-CITRUS Gantt chart._
 
 ---
 
@@ -37,7 +41,7 @@ To develop and implement a digital twin-enabled manufacturing framework that enh
 ## Conceptual Framework
 <img width="auto" height="auto" alt="fw" src="https://github.com/user-attachments/assets/4457f5b8-c4f4-45c4-8e3a-963f389b2137" />
 
-_Figure 1. Conceptual framework of D-CITRUS digital twin-enabled citrus post-processing system._
+_Figure 2. Conceptual framework of D-CITRUS digital twin-enabled citrus post-processing system._
 
 ---
 
