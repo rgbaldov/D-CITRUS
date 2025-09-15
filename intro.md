@@ -32,16 +32,58 @@ To develop and implement a digital twin-enabled manufacturing framework that enh
 - Develop the digital twin of the citrus sorting and packaging line.  
 - Integrate real-time data from sensors (size, weight, color, defects).  
 - Build a synchronized virtual-physical system for monitoring and control.  
+```mermaid
+flowchart TD
+    A[Raw Citrus Fruits] --> B[Sensor Data Capture]
+    B --> C[Physical Data Collection: Size, Weight, Color, Defects]
+    C --> D[Data Transmission to Digital Twin]
+    D --> E[Digital Twin Model: Virtual Citrus Line]
+    E --> F[Real-Time Simulation & Monitoring]
+    F --> G[Decision Support for Sorting & Packaging]
+    G --> H[Feedback Loop to Physical System]
 ---
 
 ### Project 2: AI-Driven Sorting and Smart Packaging (1.5 yrs)
 - Develop machine learning models for citrus grading and classification.  
 - Design automated sorting mechanisms based on AI decisions.  
 - Create optimized, eco-friendly, and cost-effective packaging solutions.  
----
+```mermaid
+flowchart TD
+    A[Input: Citrus Data from Digital Twin & Sensors] --> B[AI Sorting Algorithms]
+    B --> C[Fruit Classification: Size, Ripeness, Defects]
+    C --> D[Automated Sorting Mechanisms]
+    D --> E[Graded Citrus Output]
+
+    C --> F[Smart Packaging Design]
+    F --> G[Eco-friendly & Cost-effective Packaging]
+    G --> H[Packaged Citrus Output]
+
+    %% Feedback loop
+    E -.-> A
+    H -.-> A
+
 
 ### Project 3: System Validation, Deployment, and Sustainability (1 yr)
 - Pilot test the D-CITRUS system with partner citrus farms in Region II.  
 - Evaluate performance in efficiency, cost reduction, and quality assurance.  
 - Conduct economic, environmental, and social impact assessment.  
-- Develop scalability framework for adoption across other agricultural industries.  
+- Develop scalability framework for adoption across other agricultural industries. 
+```mermaid
+flowchart TD
+    A[Pilot Deployment with Partner Farms] --> B[System Validation]
+    B --> C[Performance Evaluation]
+    C --> D[Efficiency, Accuracy, Cost-effectiveness]
+
+    B --> E[Quality Assurance Testing]
+    E --> F[Compliance with Industry Standards]
+
+    C --> G[Impact Assessment]
+    G --> H[Economic Impact]
+    G --> I[Environmental Impact]
+    G --> J[Social Impact]
+
+    H --> K[Recommendations for Scalability]
+    I --> K
+    J --> K
+
+    K --> L[Adoption Across Other Agricultural Industries]
