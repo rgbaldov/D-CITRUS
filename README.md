@@ -1,8 +1,9 @@
-# D-CITRUS
-Digital Twin-Integrated Citrus Sorting and Packaging System (D-CITRUS)
-*Prepared by: [Renann G. Baldovino, PhD](https://www.dlsu.edu.ph/colleges/gcoe/academic-departments/manufacturing-engineering-management/faculty-profile/renann-baldovino/), [Angelino A. Pimentel, MSc, PECE](https://scholar.google.com/citations?user=rPcj5CMAAAAJ&hl=en)*
+# Digital Twin-Integrated Citrus Sorting and Packaging System (D-CITRUS)
+
+*Prepared by: *[Renann G. Baldovino, PhD](https://www.dlsu.edu.ph/colleges/gcoe/academic-departments/manufacturing-engineering-management/faculty-profile/renann-baldovino/), **[Angelino A. Pimentel, MSc, PECE](https://scholar.google.com/citations?user=rPcj5CMAAAAJ&hl=en)*
 
 **[Department of Manufacturing Engineering and Management](https://www.dlsu.edu.ph/colleges/gcoe/academic-departments/manufacturing-engineering-management/)*
+
 ***[School of Engineering, Architecture and Information Technology](https://smu.edu.ph/academics/school-of-engineering-architecture-and-information-technology/)*
 
 
