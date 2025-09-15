@@ -35,7 +35,7 @@ To develop and implement a digital twin-enabled manufacturing framework that enh
 ---
 
 ## Conceptual Framework
-<img width="795" height="500" alt="fw" src="https://github.com/user-attachments/assets/4457f5b8-c4f4-45c4-8e3a-963f389b2137" />
+<img width="auto" height="auto" alt="fw" src="https://github.com/user-attachments/assets/4457f5b8-c4f4-45c4-8e3a-963f389b2137" />
 
 _Figure 1. Conceptual framework of D-CITRUS digital twin-enabled citrus post-processing system._
 
