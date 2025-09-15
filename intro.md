@@ -35,7 +35,7 @@ To develop and implement a digital twin-enabled manufacturing framework that enh
 ---
 
 ## Conceptual Framework
-<img width="795" height="700" alt="fw" src="https://github.com/user-attachments/assets/4457f5b8-c4f4-45c4-8e3a-963f389b2137" />
+<img width="795" height="500" alt="fw" src="https://github.com/user-attachments/assets/4457f5b8-c4f4-45c4-8e3a-963f389b2137" />
 
 _Figure 1. Conceptual framework of D-CITRUS digital twin-enabled citrus post-processing system._
 
@@ -53,7 +53,7 @@ _Figure 1. Conceptual framework of D-CITRUS digital twin-enabled citrus post-pro
 - Integrate real-time data from sensors (size, weight, color, defects)  
 - Build a synchronized virtual-physical system for monitoring and control  
 
-## Project 3: System Validation, Deployment, and Sustainability (1 yr)
+### Project 3: System Validation, Deployment, and Sustainability (1 yr)
 - Pilot test the D-CITRUS system with partner citrus farms in Region II
 - Evaluate performance in efficiency, cost reduction, and quality assurance
 - Conduct economic, environmental, and social impact assessment
