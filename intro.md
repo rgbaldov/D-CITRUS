@@ -24,9 +24,9 @@ To develop and implement a digital twin-enabled manufacturing framework that enh
    - To evaluate system performance in terms of cost, efficiency, and sustainability versus traditional methods  
 
 ## Conceptual Framework:
-<img width="798" height="810" alt="fw" src="https://github.com/user-attachments/assets/01e58cda-6663-4757-b7ec-ecf03e2e3ae7" />
+<img width="795" height="805" alt="fw" src="https://github.com/user-attachments/assets/4457f5b8-c4f4-45c4-8e3a-963f389b2137" />
 
-## Proposed 3 Major Projects under D-CITRUS
+## 3 Major Projects under D-CITRUS
 ### Project 1: Digital Twin Modeling and Smart Sensing (1 yr) 
 - Develop the digital twin of the citrus sorting and packaging line.  
 - Integrate real-time data from sensors (size, weight, color, defects).  
