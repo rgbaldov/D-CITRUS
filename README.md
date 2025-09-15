@@ -12,6 +12,7 @@ The project introduces **D-CITRUS**, a smart manufacturing framework designed to
 
 ## Objectives:
 To develop and implement a digital twin-enabled manufacturing framework that enhances the efficiency, accuracy, and sustainability of citrus post-processing through intelligent sorting and packaging automation
+
 **Specific Objectives:**
    - To develop a digital twin model for real-time simulation of citrus sorting and packaging
    - To integrate sensor and AI technologies to improve fruit classification accuracy and efficiency
@@ -20,7 +21,7 @@ To develop and implement a digital twin-enabled manufacturing framework that enh
 
 ## Conceptual Framework:
 ```mermaid
-flowchart LR
+flowchart TD
     A[Raw Citrus Fruits] --> B[Sensors & Data Capture]
     B --> C[Digital Twin Layer: Virtual Citrus Model]
     C --> D[AI Processing & Analytics]
