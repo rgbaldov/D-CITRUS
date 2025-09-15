@@ -35,6 +35,3 @@ To develop and implement a digital twin-enabled manufacturing framework that enh
 <img width="auto" height="auto" alt="fw" src="https://github.com/user-attachments/assets/4457f5b8-c4f4-45c4-8e3a-963f389b2137" />
 
 _Figure 1. Proposed Conceptual framework._
-- Evaluate performance in efficiency, cost reduction, and quality assurance
-- Conduct economic, environmental, and social impact assessment
-- Develop scalability framework for adoption across other agricultural industries
