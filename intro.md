@@ -58,5 +58,3 @@ _Figure 1. Conceptual framework of D-CITRUS digital twin-enabled citrus post-pro
 - Evaluate performance in efficiency, cost reduction, and quality assurance
 - Conduct economic, environmental, and social impact assessment
 - Develop scalability framework for adoption across other agricultural industries
-
-
