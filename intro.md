@@ -58,12 +58,6 @@ _Figure 1. Conceptual framework of D-CITRUS digital twin-enabled citrus post-pro
 - Develop scalability framework for adoption across other agricultural industries
 
 ```mermaid
-flowchart TB
-    A[2025 Q1–Q4: Project 1 - Digital Twin Modeling & Smart Sensing] --> B[2025 Q3–2026 Q4: Project 2 - AI-Driven Sorting & Smart Packaging]
-    B --> C[2026 Q1–Q4: Project 3 - Validation, Deployment & Sustainability]
-
-
-```mermaid
 gantt
     dateFormat  YYYY-MM-DD
     title D-CITRUS 2-Year Project Timeline
