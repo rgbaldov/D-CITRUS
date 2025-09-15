@@ -52,12 +52,28 @@ _Figure 1. Conceptual framework of D-CITRUS digital twin-enabled citrus post-pro
 - Integrate real-time data from sensors (size, weight, color, defects)  
 - Build a synchronized virtual-physical system for monitoring and control  
 
+### Project 2: AI-Driven Sorting and Smart Packaging (1.5 yrs) 
+- Develop the digital twin of the citrus sorting and packaging line  
+- Integrate real-time data from sensors (size, weight, color, defects)  
+- Build a synchronized virtual-physical system for monitoring and control  
+
+## Project 3: System Validation, Deployment, and Sustainability (1 yr)
+- Pilot test the D-CITRUS system with partner citrus farms in Region II
+- Evaluate performance in efficiency, cost reduction, and quality assurance
+- Conduct economic, environmental, and social impact assessment
+- Develop scalability framework for adoption across other agricultural industries
+
 ```mermaid
-flowchart TD
-    A[Raw Citrus Fruits] --> B[Sensor Data Capture]
-    B --> C[Physical Data Collection: Size, Weight, Color, Defects]
-    C --> D[Data Transmission to Digital Twin]
-    D --> E[Digital Twin Model: Virtual Citrus Line]
-    E --> F[Real-Time Simulation & Monitoring]
-    F --> G[Decision Support for Sorting & Packaging]
-    G --> H[Feedback Loop to Physical System]
+gantt
+    dateFormat  YYYY-MM-DD
+    title D-CITRUS 2-Year Project Timeline
+    excludes weekends
+
+    section Project 1: Digital Twin Modeling & Smart Sensing
+    System Modeling & Sensors    :active, p1, 2025-01-01, 2025-12-31
+
+    section Project 2: AI-Driven Sorting & Smart Packaging
+    AI Models & Packaging        :p2, 2025-07-01, 2026-12-31
+
+    section Project 3: Validation, Deployment & Sustainability
+    Pilot Deployment & Assessment :p3, 2026-01-01, 2026-12-31
