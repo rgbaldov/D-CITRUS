@@ -4,7 +4,6 @@
 
 [Angelino A. Pimentel, MSc, PECE](https://scholar.google.com/citations?user=rPcj5CMAAAAJ&hl=en)  
 **[School of Engineering, Architecture and Information Technology, Saint Mary's University (SMU)](https://smu.edu.ph/academics/school-of-engineering-architecture-and-information-technology/)**
-<img width="250" height="250" alt="smu" src="https://github.com/user-attachments/assets/37709fda-c3b8-4e6f-91b5-51efe4b95012" />
 
 [Renann G. Baldovino, PhD](https://www.dlsu.edu.ph/colleges/gcoe/academic-departments/manufacturing-engineering-management/faculty-profile/renann-baldovino/)  
 **[Department of Manufacturing Engineering and Management, De La Salle University (DLSU)](https://www.dlsu.edu.ph/colleges/gcoe/academic-departments/manufacturing-engineering-management/)**  
@@ -47,17 +46,17 @@ _Figure 2. Conceptual framework of D-CITRUS digital twin-enabled citrus post-pro
 
 ## 3 Major Projects under D-CITRUS
 
-### Project 1: Digital Twin Modeling and Smart Sensing (1 yr) 
+### Project 1: Digital Twin Modeling and Smart Sensing (1 yr), _~PhP 5 M_
 - Develop the digital twin of the citrus sorting and packaging line  
 - Integrate real-time data from sensors (size, weight, color, defects)  
 - Build a synchronized virtual-physical system for monitoring and control  
 
-### Project 2: AI-Driven Sorting and Smart Packaging (1.5 yrs) 
+### Project 2: AI-Driven Sorting and Smart Packaging (1.5 yrs), _~PhP 15 M_
 - Develop the digital twin of the citrus sorting and packaging line  
 - Integrate real-time data from sensors (size, weight, color, defects)  
 - Build a synchronized virtual-physical system for monitoring and control  
 
-### Project 3: System Validation, Deployment, and Sustainability (1 yr)
+### Project 3: System Validation, Deployment, and Sustainability (1 yr), _~PhP 5 M_
 - Pilot test the D-CITRUS system with partner citrus farms in Region II
 - Evaluate performance in efficiency, cost reduction, and quality assurance
 - Conduct economic, environmental, and social impact assessment
